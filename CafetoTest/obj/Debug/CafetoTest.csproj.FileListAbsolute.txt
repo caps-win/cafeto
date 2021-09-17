@@ -1,0 +1,11 @@
+C:\Users\developer\Desktop\Cafeto\CafetoTest\bin\Debug\CafetoTest.dll
+C:\Users\developer\Desktop\Cafeto\CafetoTest\bin\Debug\CafetoTest.pdb
+C:\Users\developer\Desktop\Cafeto\CafetoTest\obj\Debug\CafetoTest.csproj.CoreCompileInputs.cache
+C:\Users\developer\Desktop\Cafeto\CafetoTest\obj\Debug\CafetoTest.dll
+C:\Users\developer\Desktop\Cafeto\CafetoTest\obj\Debug\CafetoTest.pdb
+C:\Users\jsanta\Downloads\Cafeto_2\Cafeto_1\Cafeto\CafetoTest\bin\Debug\CafetoTest.dll
+C:\Users\jsanta\Downloads\Cafeto_2\Cafeto_1\Cafeto\CafetoTest\bin\Debug\CafetoTest.pdb
+C:\Users\jsanta\Downloads\Cafeto_2\Cafeto_1\Cafeto\CafetoTest\obj\Debug\CafetoTest.csproj.AssemblyReference.cache
+C:\Users\jsanta\Downloads\Cafeto_2\Cafeto_1\Cafeto\CafetoTest\obj\Debug\CafetoTest.csproj.CoreCompileInputs.cache
+C:\Users\jsanta\Downloads\Cafeto_2\Cafeto_1\Cafeto\CafetoTest\obj\Debug\CafetoTest.dll
+C:\Users\jsanta\Downloads\Cafeto_2\Cafeto_1\Cafeto\CafetoTest\obj\Debug\CafetoTest.pdb
